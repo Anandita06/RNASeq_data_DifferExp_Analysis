@@ -35,12 +35,9 @@ Follow these steps to set up and run the analysis:
 2. **Open the project:**  
    Open DESeq analysis.Rproj in RStudio.
 3. **Install required packages:** In R or RStudio, run:
-r
-Copy
-Edit
-install.packages("BiocManager")
-BiocManager::install("DESeq2")
-# Install any additional packages as needed
+    ```r
+   install.packages("BiocManager")
+   BiocManager::install("DESeq2") #Install any additional packages as needed
 
 4. **Run the analysis:**  
    Open the DESeq all files.R script in RStudio and execute it. The script will perform the differential expression analysis.
