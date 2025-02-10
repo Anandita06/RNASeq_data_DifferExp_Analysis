@@ -34,8 +34,8 @@ Follow these steps to set up and run the analysis:
    git clone https://github.com/Anandita06/RNASeq_data_DifferExp_Analysis.git
 2. **Open the project:**  
    Open DESeq analysis.Rproj in RStudio.
-3. **Install required packages:** In R or RStudio, run:
-    ```rstudio
+3. **Install required packages:** In R or RStudio, run:  
+    ```r
    install.packages("BiocManager")
    BiocManager::install("DESeq2") #Install any additional packages as needed
 
