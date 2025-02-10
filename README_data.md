@@ -51,4 +51,4 @@ Both datasets follow the **raw count matrix format**, commonly used in RNA-Seq a
 
 ## Contact  
 
-For questions about the data files or for further information, please contact the repository owner at your preferred public email (e.g., your GitHub no-reply email).  
+For questions about the data files or for further information, please contact the repository owner at your preferred public email (anandita.banerjee2022@vitalum.ac.in).  
