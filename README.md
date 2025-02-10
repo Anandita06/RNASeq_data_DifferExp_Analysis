@@ -34,10 +34,14 @@ Follow these steps to set up and run the analysis:
    git clone https://github.com/Anandita06/RNASeq_data_DifferExp_Analysis.git
 2. **Open the project:**  
    Open DESeq analysis.Rproj in RStudio.
-3. **Install required packages:**  
-   In R or RStudio, run:
-   install.packages("BiocManager")
-   BiocManager::install("DESeq2") #Install any additional packages as needed
+3. **Install required packages:** In R or RStudio, run:
+r
+Copy
+Edit
+install.packages("BiocManager")
+BiocManager::install("DESeq2")
+# Install any additional packages as needed
+
 4. **Run the analysis:**  
    Open the DESeq all files.R script in RStudio and execute it. The script will perform the differential expression analysis.
 5. **Review the outputs:**  
@@ -61,4 +65,4 @@ The accompanying plots help visualize the overall expression patterns and highli
 Contributions are welcome! If you have suggestions, improvements, or additional analyses, please feel free to open an issue or submit a pull request.
 
 ## Contact
-For questions or feedback, please contact [Your Name or Email].
+For questions or feedback, please contact [].
