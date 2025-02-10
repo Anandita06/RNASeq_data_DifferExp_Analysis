@@ -35,7 +35,7 @@ Follow these steps to set up and run the analysis:
 2. **Open the project:**  
    Open DESeq analysis.Rproj in RStudio.
 3. **Install required packages:** In R or RStudio, run:
-    ```r
+    ```rstudio
    install.packages("BiocManager")
    BiocManager::install("DESeq2") #Install any additional packages as needed
 
@@ -48,8 +48,8 @@ Follow these steps to set up and run the analysis:
 ## Data Description
 The dataset used in this analysis comprises RNA-Seq expression profiles from lymphoma samples, which are classified into two groups:
 
-ABC (Activated B-cell)
-GCB (Germinal Center B-cell)
+ABC (Activated B-cell)  
+GCB (Germinal Center B-cell)  
 This classification is crucial for understanding the biological differences between the two subtypes and for discovering subtype-specific biomarkers.
 
 ## Results
