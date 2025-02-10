@@ -48,8 +48,8 @@ Follow these steps to set up and run the analysis:
 ## Data Description
 The dataset used in this analysis comprises RNA-Seq expression profiles from lymphoma samples, which are classified into two groups:
 
-ABC (Activated B-cell)  
-GCB (Germinal Center B-cell)  
+1. ABC (Activated B-cell)  
+2. GCB (Germinal Center B-cell)  
 This classification is crucial for understanding the biological differences between the two subtypes and for discovering subtype-specific biomarkers.
 
 ## Results
@@ -62,4 +62,4 @@ The accompanying plots help visualize the overall expression patterns and highli
 Contributions are welcome! If you have suggestions, improvements, or additional analyses, please feel free to open an issue or submit a pull request.
 
 ## Contact
-For questions or feedback, please contact [].
+For questions or feedback, please contact [anandita2406@gmail.com].
